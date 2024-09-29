@@ -1,0 +1,14 @@
+/home/alexandre/RiderProjects/StringDecoder/StringDecoder/bin/Debug/net8.0/StringDecoder
+/home/alexandre/RiderProjects/StringDecoder/StringDecoder/bin/Debug/net8.0/StringDecoder.deps.json
+/home/alexandre/RiderProjects/StringDecoder/StringDecoder/bin/Debug/net8.0/StringDecoder.runtimeconfig.json
+/home/alexandre/RiderProjects/StringDecoder/StringDecoder/bin/Debug/net8.0/StringDecoder.dll
+/home/alexandre/RiderProjects/StringDecoder/StringDecoder/bin/Debug/net8.0/StringDecoder.pdb
+/home/alexandre/RiderProjects/StringDecoder/StringDecoder/obj/Debug/net8.0/StringDecoder.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexandre/RiderProjects/StringDecoder/StringDecoder/obj/Debug/net8.0/StringDecoder.AssemblyInfoInputs.cache
+/home/alexandre/RiderProjects/StringDecoder/StringDecoder/obj/Debug/net8.0/StringDecoder.AssemblyInfo.cs
+/home/alexandre/RiderProjects/StringDecoder/StringDecoder/obj/Debug/net8.0/StringDecoder.csproj.CoreCompileInputs.cache
+/home/alexandre/RiderProjects/StringDecoder/StringDecoder/obj/Debug/net8.0/StringDecoder.dll
+/home/alexandre/RiderProjects/StringDecoder/StringDecoder/obj/Debug/net8.0/refint/StringDecoder.dll
+/home/alexandre/RiderProjects/StringDecoder/StringDecoder/obj/Debug/net8.0/StringDecoder.pdb
+/home/alexandre/RiderProjects/StringDecoder/StringDecoder/obj/Debug/net8.0/StringDecoder.genruntimeconfig.cache
+/home/alexandre/RiderProjects/StringDecoder/StringDecoder/obj/Debug/net8.0/ref/StringDecoder.dll

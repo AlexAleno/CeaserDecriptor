@@ -1,0 +1,14 @@
+/home/alexandre/RiderProjects/StringDecoder/Reader/obj/Debug/net8.0/Reader.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexandre/RiderProjects/StringDecoder/Reader/obj/Debug/net8.0/Reader.AssemblyInfoInputs.cache
+/home/alexandre/RiderProjects/StringDecoder/Reader/obj/Debug/net8.0/Reader.AssemblyInfo.cs
+/home/alexandre/RiderProjects/StringDecoder/Reader/obj/Debug/net8.0/Reader.csproj.CoreCompileInputs.cache
+/home/alexandre/RiderProjects/StringDecoder/Reader/bin/Debug/net8.0/Reader
+/home/alexandre/RiderProjects/StringDecoder/Reader/bin/Debug/net8.0/Reader.deps.json
+/home/alexandre/RiderProjects/StringDecoder/Reader/bin/Debug/net8.0/Reader.runtimeconfig.json
+/home/alexandre/RiderProjects/StringDecoder/Reader/bin/Debug/net8.0/Reader.dll
+/home/alexandre/RiderProjects/StringDecoder/Reader/bin/Debug/net8.0/Reader.pdb
+/home/alexandre/RiderProjects/StringDecoder/Reader/obj/Debug/net8.0/Reader.dll
+/home/alexandre/RiderProjects/StringDecoder/Reader/obj/Debug/net8.0/refint/Reader.dll
+/home/alexandre/RiderProjects/StringDecoder/Reader/obj/Debug/net8.0/Reader.pdb
+/home/alexandre/RiderProjects/StringDecoder/Reader/obj/Debug/net8.0/Reader.genruntimeconfig.cache
+/home/alexandre/RiderProjects/StringDecoder/Reader/obj/Debug/net8.0/ref/Reader.dll
