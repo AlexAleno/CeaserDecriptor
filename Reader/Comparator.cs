@@ -55,6 +55,7 @@ public class Comparator()
         
 
         char[] Records = {biggestPlain,biggestEncrypted,biggestPlain1,biggestEncrypted1};
+        Console.WriteLine("The most common characters are {0} and {1} occuring {2} and {3} times",biggestPlain,biggestEncrypted,biggestNPlain,biggestNEnc);
 
         return Records;
 
